@@ -6,6 +6,8 @@ This project aims to streamline the workflow for creating storyboard ads by util
 ```plaintext
 Semantic-Image-and-Text-Alignment
 │
+├── data
+|
 ├── notebooks
 │   ├── assets_eda.ipynb
 │   ├── concepts_eda.ipynb
